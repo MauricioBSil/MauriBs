@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" /> 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=45&center=true&vCenter=true&width=1100&lines=Wassup!+;I'm+Mauricio+Barboza;I'm+studying+javaScript+in+Curso+em+Video!+☺️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1400&lines=Wassup!+;I'm+Mauricio+Barboza;I'm+studying+javaScript+in+Curso+em+Video!+🤖)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauriBs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maurício Barboza github stats" /> 
