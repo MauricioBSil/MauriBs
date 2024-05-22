@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   
  <!-- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MauriBs&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Maurício Barboza github stats" /> -->
   <img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api?username=MauriBs&show_icons=true&theme=dark&locale=pt-br&rank_icon=github"/>
-  <img width="41%" height="175px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark&locale=pt-br&"/>
+  <img width="41%" height="195px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true&theme=dark&locale=pt-br&"/>
 </div>
   
 
